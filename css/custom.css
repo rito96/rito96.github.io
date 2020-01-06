@@ -1,0 +1,35 @@
+
+.network-icon i {
+    color: rgba(0, 0, 0, 1);
+}
+
+.featurette-icon > i {
+    color: rgba(0, 0, 0, 1);
+}
+
+a {
+    color: rgba(100, 100, 100, 1);
+}
+
+a:hover {
+    color: rgba(100, 100, 100, 1);
+}
+
+div.experience div.m-2 > span.border {
+    border-color: rgba(100, 100, 100, 0.7) !important;
+}
+
+div.experience div.h-50 > div.border-right{
+    border-color: rgba(100, 100, 100, 0.7) !important;
+}
+
+a.btn-outline-primary {
+    color: rgba(100, 100, 100, 1);
+    border-color: rgba(100, 100, 100, 1);
+}
+
+a.btn-outline-primary:hover {
+    background-color: rgba(100, 100, 100, 1);
+    color: rgba(255, 255, 255, 1);
+    border-color: rgba(100, 100, 100, 1);
+}

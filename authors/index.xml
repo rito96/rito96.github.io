@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | rito&#39;s page</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Michitaka Hirose</title>
+      <link>/authors/michitaka-hirose/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michitaka-hirose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nami Ogawa</title>
+      <link>/authors/nami-ogawa/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nami-ogawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryota Ito</title>
+      <link>/authors/ryota-ito/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ryota-ito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takuji Narumi</title>
+      <link>/authors/takuji-narumi/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/takuji-narumi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;AR/VRを使って実世界の物理的な制約を越えた、ヒト-ヒト/ヒト-コンピュータのインタラクションを研究しています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
